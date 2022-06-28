@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-mekhaiber/mekhaiber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mekhaiber/mekhaiber is a ✨ special ✨ repositorysl because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
